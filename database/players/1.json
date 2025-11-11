@@ -1,0 +1,11 @@
+{
+  "name": "Nicolás Otamendi",
+  "birthdate": "1988-02-12T00:00:00.000Z",
+  "contractExpiration": "2026-06-30T00:00:00.000Z",
+  "country": {
+    "name": "Argentina",
+    "shortName": "ar"
+  },
+  "role": "Defence",
+  "shirtNumber": 30
+}
