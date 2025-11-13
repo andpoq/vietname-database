@@ -1,25 +1,5 @@
 {
-  "data": [
-    {
-      "_id": "69029ad541d26a2b5dd3f725",
-      "name": "2025/26"
-    },
-    {
-      "_id": "69029ad541d26a2b5dd3f728",
-      "name": "2026/27"
-    },
-    {
-      "_id": "69029ad541d26a2b5dd3f72b",
-      "name": "2027/28"
-    },
-    {
-      "_id": "69029ad541d26a2b5dd3f72e",
-      "name": "2028/29"
-    }
-  ],
-  "pagination": {
-    "totalResults": 4,
-    "currPage": 1,
-    "totalPages": 1
-  }
+  "_id": "69029ad541d26a2b5dd3f72e",
+  "name": "2028/29",
+  "isCurrent": false
 }
